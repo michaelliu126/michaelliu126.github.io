@@ -170,8 +170,11 @@ body
 /* ==========skills page themes========== */
 .skills .container
 {
-    margin-bottom: 60px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 30px;
     padding-bottom: 30px;
+    vertical-align: middle;
     backdrop-filter: blur(7px);
     -webkit-backdrop-filter: blur(7px);
 }
